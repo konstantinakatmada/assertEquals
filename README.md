@@ -2,15 +2,14 @@
 # Fluidly home and pairing test
 
 
-
 ## Terms of the exercise
 
 * Please do not use external libraries.
 * We expect you should be able to get the requirements below implemented within an hour. 
-* We will implement assertEquals for Object comparison together in the remote pairing session, so if you want to plan for this in your approach you are welcome to do so
-* You may use online resources to assist you with specific techniques, syntax etc. but please do not just copy code.
-* Please don't share this exercise with any third party
-
+* We will implement assertEquals for Object comparison together in the remote pairing session, so if you want to plan for this in your approach you are welcome to do so.
+* You may use online resources to assist you with specific techniques, syntax etc - but please do not just copy code.
+* You don't need to send us your work before we meet in the remote pairing session - simply have it ready to screen share then.
+* Please don't share this exercise with any third party.
 
 ## The challenge
 
