@@ -1,4 +1,4 @@
-const assertEquals = require('./index')
+const assertEquals = require('./assert-equals')
 
 var complexObject1 = {
   propA: 1,
