@@ -1,2 +1,3 @@
-module.exports = function assertEquals(expected, actual) {
-}
+function assertEquals(expect, actual) {}
+
+module.exports = assertEquals
