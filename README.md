@@ -59,5 +59,5 @@ With npm:
 - We usually start by implementing object comparison. If time allows, we'll move on to comparing more complex objects.
 - We will insist on practising test driven development with you.
 - As well as assessing your JavaScript and TDD skills, we'll be looking for excellent communication skills, initiative, willingness to learn, and ability to cope under pressure.
-- You can ask us questions at any time during the test.
+- You can ask us questions and Google things at any time during the test.
 - We know that it's difficult to write your best code while being watched by two people you don't know. We don't expect perfection, and will do our best to make the experience as comfortable and enjoyable for you as we can. Please let us know if you'd like us to make any adjustments.
