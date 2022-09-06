@@ -1,4 +1,4 @@
-# Fluidly home and pairing test
+# OakNorth JavaScript Home Test
 
 ## The challenge
 
@@ -48,12 +48,12 @@ With npm:
 
 ## How to prepare for the pairing exercise
 
-- The pairing exercise will be conducted remotely via [Google Meet](https://meet.google.com/). If you haven't used this before, we recommend getting comfortable with it in advance. In order to share your screen, you may have to update your browser settings and restart the browser. Doing this in advance will save us time and hassle during the pairing session.
+- The pairing exercise will be conducted remotely via [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software) or [Zoom](https://zoom.us/). If you haven't used this before, we recommend getting comfortable with it in advance. In order to share your screen, you may have to update your browser settings and restart the browser. Doing this in advance will save us time and hassle during the pairing session.
 - Please have your chosen text editor or IDE ready to go, with the code open on your screen. You should be able to run the tests.
 
 ## What to expect from the pairing exercise
 
-- You'll meet two of our fullstack engineers. As well as pairing, it will be an informal opportunity to get to know them and ask questions about working at Fluidly.
+- You'll meet two of our fullstack engineers. As well as pairing, it will be an informal opportunity to get to know them and ask questions about working at OakNorth.
 - We allow an hour for the session. Usually that's about 5 minutes of introductions, 45 minutes of coding, and 10 minutes for questions at the end.
 - You'll share your screen with us. You'll talk us through the code you've written so far. Then we'll work together to add new functionality.
 - We usually start by implementing object comparison. If time allows, we'll move on to comparing more complex objects.
