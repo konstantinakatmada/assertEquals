@@ -1,10 +1,10 @@
-# OakNorth JavaScript Home Test
+# JavaScript Home Test
 
 ## The challenge
 
-The aim of this exercise is to demonstrate your problem solving and understanding of JavaScript by implementing something found in every unit testing tool - an "assertEquals" method.
+The aim of this exercise is to demonstrate problem solving and understanding of JavaScript by implementing something found in every unit testing tool - an "assertEquals" method.
 
-### To do at home
+### To do 
 
 - Fill in the "assertEquals" function provided such that it will correctly compare the "expected" and "actual" parameters.
 - The parameters could be of any conceivable JavaScript type, but we only expect you to handle primitive data types (e.g. strings and numbers) and simple arrays to start with
@@ -18,7 +18,6 @@ The aim of this exercise is to demonstrate your problem solving and understandin
 
 - Please do not use external libraries (except for a testing library)
 - You may of course use any resources you like to assist you with specific techniques, syntax etc - but please do not just copy code.
-- Please don't share this exercise with anyone else :)
 - We've written some initial tests for you using Jest, which is our testing library of choice. You may use a different library if you wish.
 
 ### Example inputs and outputs
@@ -46,18 +45,3 @@ With npm:
 - Run `npm install`
 - Run `npm test`
 
-## How to prepare for the pairing exercise
-
-- The pairing exercise will be conducted remotely via [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software) or [Zoom](https://zoom.us/). If you haven't used this before, we recommend getting comfortable with it in advance. In order to share your screen, you may have to update your browser settings and restart the browser. Doing this in advance will save us time and hassle during the pairing session.
-- Please have your chosen text editor or IDE ready to go, with the code open on your screen. You should be able to run the tests.
-
-## What to expect from the pairing exercise
-
-- You'll meet two of our fullstack engineers. As well as pairing, it will be an informal opportunity to get to know them and ask questions about working at OakNorth.
-- We allow an hour for the session. Usually that's about 5 minutes of introductions, 45 minutes of coding, and 10 minutes for questions at the end.
-- You'll share your screen with us. You'll talk us through the code you've written so far. Then we'll work together to add new functionality.
-- We usually start by implementing object comparison. If time allows, we'll move on to comparing more complex objects.
-- We will insist on practising test driven development with you.
-- As well as assessing your JavaScript and TDD skills, we'll be looking for excellent communication skills, initiative, willingness to learn, and ability to cope under pressure.
-- You can ask us questions and Google things at any time during the test.
-- We know that it's difficult to write your best code while being watched by two people you don't know. We don't expect perfection, and will do our best to make the experience as comfortable and enjoyable for you as we can. Please let us know if you'd like us to make any adjustments.
